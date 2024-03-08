@@ -2,10 +2,6 @@ pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
 
-pub fn test() {
-    println!("just a test");
-}
-
 #[cfg(test)]
 mod tests {
     use super::*;
