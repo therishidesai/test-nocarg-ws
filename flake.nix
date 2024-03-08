@@ -31,6 +31,7 @@
       {
         devShells.default = mkShell {
           nativeBuildInputs = [
+            nix-tree
             rust-bin.nightly.latest.default
           ];
         };
