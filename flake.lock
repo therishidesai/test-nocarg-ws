@@ -113,16 +113,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1709857295,
-        "narHash": "sha256-6EA5nwF0W6qS1nn1z7slgA0ru9m0bUiFe37opWz1gQQ=",
+        "lastModified": 1710532503,
+        "narHash": "sha256-uo+Krfx4Fnm9P3bUPyToUwVTOADrAtdq8jgfeQp/SE4=",
         "owner": "therishidesai",
         "repo": "nocargo",
-        "rev": "7deb5c4943bf6df58dcc4116f5e2fa95e1978256",
+        "rev": "671813ff2754a0c2b9f08ce14319ad357aef2943",
         "type": "github"
       },
       "original": {
         "owner": "therishidesai",
-        "ref": "rdesai/resolver-v2-and-version-parsing",
+        "ref": "rdesai/resolver-v2-version-parsing-darwin",
         "repo": "nocargo",
         "type": "github"
       }

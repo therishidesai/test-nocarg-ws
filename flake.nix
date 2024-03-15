@@ -9,7 +9,7 @@
       # Once https://github.com/oxalica/nocargo/pull/17 merges we can
       # use the upstream oxalica/nocargo
       # url = "github:o-santi/nocargo";
-      url = "github:therishidesai/nocargo/rdesai/resolver-v2-and-version-parsing";
+      url = "github:therishidesai/nocargo/rdesai/resolver-v2-version-parsing-darwin";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.registry-crates-io.follows = "registry-crates-io";
     };
