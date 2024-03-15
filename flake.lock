@@ -113,11 +113,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1710532503,
+        "lastModified": 1710533062,
         "narHash": "sha256-uo+Krfx4Fnm9P3bUPyToUwVTOADrAtdq8jgfeQp/SE4=",
         "owner": "therishidesai",
         "repo": "nocargo",
-        "rev": "671813ff2754a0c2b9f08ce14319ad357aef2943",
+        "rev": "acd460a909e193fc33f7ca75fbeadaa770350bb1",
         "type": "github"
       },
       "original": {
